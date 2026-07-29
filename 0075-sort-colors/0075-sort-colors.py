@@ -2,13 +2,19 @@ from typing import List
 
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        n = len(nums)
+        left = 0
+        right = len(nums) - 1
+        i = 0
 
-        for i in range(n - 1):
-            min_index = i
+        while i <= right:
+            if nums[i] == 0:
+                nums[left], nums[i] = nums[i], nums[left]
+                left += 1
+                i += 1
 
-            for j in range(i + 1, n):
-                if nums[j] < nums[min_index]:
-                    min_index = j
+            elif nums[i] == 1:
+                i += 1
 
-            nums[i], nums[min_index] = nums[min_index], nums[i]
+            else:  # nums[i] == 2
+                nums[i], nums[right] = nums[right], nums[i]
+                right -= 1
