@@ -86,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AvgLucer/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvgLucer/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
