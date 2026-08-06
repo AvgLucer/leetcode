@@ -18,11 +18,11 @@ class Solution:
 
                 result[p2] = total % 10
                 result[p1] += total  // 10
-            ans = ""
+        ans = ""
 
-            for digit in result:
-                if not(ans == "" and digit == 0):
-                    ans += str(digit)
+        for digit in result:
+            if not(ans == "" and digit == 0):
+                ans += str(digit)
 
         return ans
 
