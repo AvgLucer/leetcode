@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AvgLucer/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AvgLucer/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
