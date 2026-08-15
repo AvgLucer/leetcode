@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AvgLucer/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AvgLucer/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AvgLucer/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AvgLucer/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AvgLucer/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AvgLucer/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 ## String Matching
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
