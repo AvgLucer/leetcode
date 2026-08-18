@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AvgLucer/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AvgLucer/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AvgLucer/leetcode/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
