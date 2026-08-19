@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/AvgLucer/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AvgLucer/leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/AvgLucer/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AvgLucer/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
