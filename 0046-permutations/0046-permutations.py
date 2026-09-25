@@ -1,13 +1,20 @@
 class Solution:
     def permute(self, nums: list[int]) -> list[list[int]]:
-        
-        if len(nums) == 1:
-            return [nums]
-        
         ans = []
+        def bt(path,used):
+            if len(path) == len(nums):
+                ans.append(path[:])
+                return
 
-        for i in range(len(nums)):
-            for p in self.permute(nums[:i] + nums[i+1:]):
-                ans.append([nums[i]] + p)
+            for i in range(len(nums)):
+                if not used[i]:
+                    used[i] = True
+                    path.append(nums[i])
+
+                    bt(path,used)
+
+                    path.pop()
+                    used[i] = False
+            
+        bt([],[False] * len(nums))
         return ans
-        
