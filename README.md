@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvgLucer/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AvgLucer/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AvgLucer/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AvgLucer/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvgLucer/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AvgLucer/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvgLucer/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AvgLucer/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
