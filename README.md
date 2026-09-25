@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AvgLucer/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/AvgLucer/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AvgLucer/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/AvgLucer/leetcode/tree/master/0039-combination-sum) |
 ## Simulation
 |  |
 | ------- |
