@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AvgLucer/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AvgLucer/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AvgLucer/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AvgLucer/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AvgLucer/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AvgLucer/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AvgLucer/leetcode/tree/master/0169-majority-element) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AvgLucer/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AvgLucer/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AvgLucer/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Breadth-First Search
 |  |
 | ------- |
