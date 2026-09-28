@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AvgLucer/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AvgLucer/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AvgLucer/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AvgLucer/leetcode/tree/master/0169-majority-element) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvgLucer/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/AvgLucer/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AvgLucer/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AvgLucer/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AvgLucer/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
