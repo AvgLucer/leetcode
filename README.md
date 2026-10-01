@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AvgLucer/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AvgLucer/leetcode/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvgLucer/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvgLucer/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AvgLucer/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AvgLucer/leetcode/tree/master/0274-h-index) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
