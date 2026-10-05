@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AvgLucer/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AvgLucer/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AvgLucer/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AvgLucer/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AvgLucer/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvgLucer/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AvgLucer/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AvgLucer/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AvgLucer/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AvgLucer/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 ## Trie
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AvgLucer/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvgLucer/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AvgLucer/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
