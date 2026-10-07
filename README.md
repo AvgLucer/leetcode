@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AvgLucer/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AvgLucer/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AvgLucer/leetcode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
