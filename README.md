@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/AvgLucer/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AvgLucer/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
