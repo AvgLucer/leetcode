@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AvgLucer/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvgLucer/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvgLucer/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/AvgLucer/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AvgLucer/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AvgLucer/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AvgLucer/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AvgLucer/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/AvgLucer/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AvgLucer/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AvgLucer/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AvgLucer/leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/AvgLucer/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AvgLucer/leetcode/tree/master/0394-decode-string) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AvgLucer/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AvgLucer/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/AvgLucer/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/AvgLucer/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AvgLucer/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvgLucer/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
