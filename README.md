@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AvgLucer/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/AvgLucer/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AvgLucer/leetcode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AvgLucer/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AvgLucer/leetcode/tree/master/0733-flood-fill) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/AvgLucer/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvgLucer/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/AvgLucer/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AvgLucer/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
