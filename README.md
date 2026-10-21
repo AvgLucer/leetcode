@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AvgLucer/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvgLucer/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AvgLucer/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AvgLucer/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/AvgLucer/leetcode/tree/master/0733-flood-fill) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AvgLucer/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AvgLucer/leetcode/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AvgLucer/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvgLucer/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AvgLucer/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AvgLucer/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvgLucer/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -394,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
