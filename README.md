@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AvgLucer/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AvgLucer/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/AvgLucer/leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AvgLucer/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AvgLucer/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/AvgLucer/leetcode/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AvgLucer/leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/AvgLucer/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/AvgLucer/leetcode/tree/master/0841-keys-and-rooms) |
 ## DP on Trees
 |  |
 | ------- |
