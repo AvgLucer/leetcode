@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AvgLucer/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AvgLucer/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AvgLucer/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/AvgLucer/leetcode/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AvgLucer/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AvgLucer/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/AvgLucer/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0986-interval-list-intersections](https://github.com/AvgLucer/leetcode/tree/master/0986-interval-list-intersections) |
 ## String Matching
 |  |
 | ------- |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AvgLucer/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AvgLucer/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
