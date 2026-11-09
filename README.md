@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/AvgLucer/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AvgLucer/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AvgLucer/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AvgLucer/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvgLucer/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/AvgLucer/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AvgLucer/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/AvgLucer/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AvgLucer/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AvgLucer/leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvgLucer/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/AvgLucer/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AvgLucer/leetcode/tree/master/0695-max-area-of-island) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AvgLucer/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/AvgLucer/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AvgLucer/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/AvgLucer/leetcode/tree/master/0841-keys-and-rooms) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AvgLucer/leetcode/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/AvgLucer/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Cartesian Tree
 |  |
@@ -437,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/AvgLucer/leetcode/tree/master/0986-interval-list-intersections) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AvgLucer/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
